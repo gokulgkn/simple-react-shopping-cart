@@ -1,0 +1,7 @@
+.Main-Centred {
+  margin: auto;
+  width: 20%;
+  position: absolute;
+  top: 50%; 
+  transform: translate(200%, -50%);
+}
